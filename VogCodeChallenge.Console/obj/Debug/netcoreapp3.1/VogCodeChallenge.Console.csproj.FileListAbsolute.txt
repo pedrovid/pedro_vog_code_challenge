@@ -1,0 +1,13 @@
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\bin\Debug\netcoreapp3.1\VogCodeChallenge.Console.exe
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\bin\Debug\netcoreapp3.1\VogCodeChallenge.Console.deps.json
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\bin\Debug\netcoreapp3.1\VogCodeChallenge.Console.runtimeconfig.json
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\bin\Debug\netcoreapp3.1\VogCodeChallenge.Console.runtimeconfig.dev.json
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\bin\Debug\netcoreapp3.1\VogCodeChallenge.Console.dll
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\bin\Debug\netcoreapp3.1\VogCodeChallenge.Console.pdb
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\obj\Debug\netcoreapp3.1\VogCodeChallenge.Console.csprojAssemblyReference.cache
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\obj\Debug\netcoreapp3.1\VogCodeChallenge.Console.AssemblyInfoInputs.cache
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\obj\Debug\netcoreapp3.1\VogCodeChallenge.Console.AssemblyInfo.cs
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\obj\Debug\netcoreapp3.1\VogCodeChallenge.Console.csproj.CoreCompileInputs.cache
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\obj\Debug\netcoreapp3.1\VogCodeChallenge.Console.dll
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\obj\Debug\netcoreapp3.1\VogCodeChallenge.Console.pdb
+C:\Users\pegri\source\repos\pedro_vog_code_challenge\VogCodeChallenge.Console\obj\Debug\netcoreapp3.1\VogCodeChallenge.Console.genruntimeconfig.cache
