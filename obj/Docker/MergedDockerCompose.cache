@@ -1,0 +1,16 @@
+services:
+  vogcodechallenge.api:
+    build:
+      context: C:\Users\pegri\source\repos\pedro_vog_code_challenge
+      dockerfile: VogCodeChallenge.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: vogcodechallengeapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\pegri\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\pegri\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'
