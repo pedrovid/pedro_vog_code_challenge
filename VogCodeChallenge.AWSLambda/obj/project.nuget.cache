@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nm6J46TVa6r5WNFHkvWg3ssuYWgP8wES0c4MUjgz/LMO4if/5zONjfoGI9+Y/Ry2orizz6oyfWTwh0gUex5Hsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pegri\\source\\repos\\pedro_vog_code_challenge\\VogCodeChallenge.AWSLambda\\VogCodeChallenge.AWSLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pegri\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\pegri\\.nuget\\packages\\amazon.lambda.dynamodbevents\\2.1.0\\amazon.lambda.dynamodbevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\pegri\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "C:\\Users\\pegri\\.nuget\\packages\\awssdk.core\\3.7.5.5\\awssdk.core.3.7.5.5.nupkg.sha512",
+    "C:\\Users\\pegri\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.2.1\\awssdk.dynamodbv2.3.7.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
